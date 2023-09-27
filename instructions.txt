@@ -1,0 +1,9 @@
+You are allowed to start the test whenever you want to. The timer would start only when you start the test. However remember that <mark>admin has full rights</mark> to disable the test at any time. So it is recommended to start the test at the prescribed time.
+You can see the history of test taken and scores in the 'History' section.
+To start the test, click on <mark>'Start'</mark>.
+Once the test is started the timer would run irrespective of your logged in or logged out status. So it is recommended not to logout before test completion.
+To mark an answer you need to select it and press the <mark>'Lock'</mark>button. Upon locking, the selected answer would be displayed and the question will be marked <mark>"green"</mark>
+To delete an answer press <mark>trash</mark> Button.
+Use the navigation buttons to navigate through different questions.
+The marks for correct and incorrect answer are listed above in the table. 0 marks would be awarded for the questions that are "not marked" (having <mark>"red"</mark> status).
+If you get some error, you can contact us via <mark>feedback </mark>form.
